@@ -1,0 +1,28 @@
+# Google Cloud Libraries for Text-to-Speech and Speech-to-Text
+google-cloud-speech
+google-cloud-texttospeech
+
+# Libraries for LLM
+langchain
+langchain-openai
+
+# AWS Libraries
+boto3
+
+# Libraries for Image Processing and Face Detection
+opencv-python
+
+# GRPC Libraries
+grpcio
+grpcio-tools
+
+# Other Libraries
+pydantic
+python-dotenv
+
+
+
+
+
+
+
